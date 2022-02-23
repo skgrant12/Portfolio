@@ -1,9 +1,13 @@
-/* Basic Tags */
+/* Basic elements */
 body {
   margin: auto;
   max-width: 100%;
 }
 
+.wrapper {
+  margin: 0;
+  max-width: 100;
+}
 
 #header, #about, #skills, #portfolio, #contact {
   padding-top: 1%;
