@@ -7,7 +7,7 @@ Here you can learn about me, my projects, etc.
 ---
 
 ## Technologies
-Here are the technologies I used in order to create this project:
+I used the following technologies to create this project:
 -HTML 5
 -CSS 3
 -Bootstrap
