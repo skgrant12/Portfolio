@@ -1,6 +1,6 @@
 # Sarah's Portfolio
 
-Welcome to my developer portfolio. My name is Sarah Grant and I am a web developer!
+Welcome to my developer portfolio. My name is Sarah Grant and I am a software developer!
 
 Here you can learn about me, my projects, etc.
 
